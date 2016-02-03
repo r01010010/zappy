@@ -1,5 +1,5 @@
 var zappy = {
- objFrom: function(str, last_value){
+ tree: function(str, last_value){
   
   var objs = str.split('.');
   var r = {};
