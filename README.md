@@ -5,7 +5,7 @@ Create complex objects rapidly from strings.
 
 `var obj = zappy.tree('obj1.obj2.data', 20);`
 
-### Instead:
+### Instead of
 
 ```js
 var obj = {
@@ -16,5 +16,11 @@ var obj = {
 	}
 }
 ```
+
+### Useful for
+
+- Defining quickly fake data for unit testing
+- Whatever you want
+
 
 
